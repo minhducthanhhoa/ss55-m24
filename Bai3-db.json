@@ -1,0 +1,20 @@
+{
+    "post":[
+        {
+            "id":1,
+            "title":"cách học ReactJS hiệu quả",
+            "thumbnail":"https://s3-sgn09.fptcloud.com/codelearnstorage/Upload/Blog/react-js-co-ban-phan-1-63738082145.3856.jpg",
+            "created-at":"25/03/2024",
+            "created-by":"Ngọ Văn Quý",
+            "user_id":1,
+            "comments":[
+                {
+                    "id":1,
+                    "content":"Bài viết rất ý nghĩa",
+                    "created_at":"22/03/2024",
+                    "user_id":2
+                }
+            ]
+        }
+    ]
+}

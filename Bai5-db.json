@@ -1,0 +1,21 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "Học JavaScript từ cơ bản đến nâng cao",
+      "content": "Thực hành nhiều và đọc sách",
+      "thumbnail": "https://tse4.mm.bing.net/th?id=OIP.Jnvwf_CNKoTvatXtrbyTmxwHaEG&pid=Api&P=0&h=180",
+      "created_at": "26/03/2024",
+      "created_by": "Nguyễn Văn A",
+      "user_id": 2,
+      "comments": [
+        {
+          "id": 2,
+          "content": "Bài viết hữu ích",
+          "created_at": "23/03/2024",
+          "user_id": 3
+        }
+      ]
+    }
+  ]
+}

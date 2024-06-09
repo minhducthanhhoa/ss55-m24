@@ -1,0 +1,20 @@
+{
+    "users":[
+        {
+            "id":1,
+            "name":"hoa",
+            "address":"hà nội"
+        },
+        {
+            "id":2,
+            "name":"hồng",
+            "address":"hà nam"
+        },
+        {
+            "id":3,
+            "name":"thu",
+            "address":"hà giang"
+        }
+    ],
+    "prodcut":[]
+}

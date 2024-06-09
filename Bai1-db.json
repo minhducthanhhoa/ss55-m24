@@ -1,0 +1,16 @@
+{
+    "student":[
+        {
+            "id":1,
+            "name":"minh thu"
+        },
+        {
+            "id":2,
+            "name":"minh duc"
+        },
+        {
+            "id":3,
+            "name":"hoa"
+        }
+    ]
+}
